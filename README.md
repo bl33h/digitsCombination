@@ -34,6 +34,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 # Clone this repository
 $ git clone https://github.com/bl33h/digitsCombination
 
+# Install dependencies
+$ pip install itertools
+$ pip install collections
+
 # Open the folder
 $ cd src
 
